@@ -1,3 +1,10 @@
+md5: 9214773a6680f38071c9d5e4403f771d
+frozen: true
+deps:
+- path: ethos/ethos_data/Ethos_Dataset_Binary.csv
+  repo:
+    url: https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset
+    rev_lock: 705258e118ce9611ebbd5ab2a4841b0066547293
 outs:
 - md5: d475a0a4e09db8d6a405b6c9fb962da3
   size: 123919
